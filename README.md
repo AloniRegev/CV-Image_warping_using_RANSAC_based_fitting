@@ -21,9 +21,9 @@ The goal is to estimate the 2D image transformation between a pair of images and
     ![Q3B_pair2_projective](./outputs/Q3B_pair2_projective.png?raw=true)
 
  3. pair3
-   - Affin
+    - Affin
      ![Q3B_pair3_affine](./outputs/Q3B_pair3_affine.png?raw=true)
-   - Projective  
+    - Projective  
      ![Q3B_pair3_projective](./outputs/Q3B_pair3_projective.png?raw=true)
            
  ## Authors:
