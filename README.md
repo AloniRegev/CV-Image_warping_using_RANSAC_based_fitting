@@ -28,4 +28,4 @@ The goal is to estimate the 2D image transformation between a pair of images and
            
  ## Authors:
   - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
-  - [Regev Aloni](https://www.linkedin.com/in/aloniregev)
+  - [Regev Aloni](https://github.com/AloniRegev)
